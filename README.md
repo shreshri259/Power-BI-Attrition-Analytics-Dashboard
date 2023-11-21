@@ -1,4 +1,4 @@
-# Power-BI-Attrition-Analytics-Dashboard
+# Attrition Analytics Dashboard in Power BI
 
 The **Employee Attrition Analytics Dashboard** is a data analytics project created using Microsoft Power BI. This dashboard provides valuable insights into employee attrition within a fictional organization. By analyzing relevant HR data, it helps HR professionals and management make informed decisions to reduce attrition rates and improve employee retention strategies.
 
