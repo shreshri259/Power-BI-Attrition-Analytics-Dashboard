@@ -31,7 +31,8 @@ This dashboard utilises the data manipulation and visualisation features of Micr
 
 # Screenshots
 
-
+![ScreenShot 1](https://raw.github.com/shreshri259/Power-BI-Attrition-Analytics-Dashboard/main/Screenshot_Desktop-Interface.jpg)
+![ScreenShot 2](https://raw.github.com/shreshri259/Power-BI-Attrition-Analytics-Dashboard/main/Screenshot_Handheld-Interface.jpg)
 
 ## Acknowledgements
 
